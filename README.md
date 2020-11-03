@@ -1,3 +1,7 @@
+<h3>Marketplace_l7</h3>
+<p>Projeto de um aplicativo de uma loja simples, foi desenvolvido utilizando Php e o Framework Php Laravel 7, também realizado consumo da API para serviços bancários do PagSeguro utilizando a modalidade de cartão de créditos (apenas para testes).</p>
+ 
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
